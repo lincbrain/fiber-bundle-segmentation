@@ -61,10 +61,12 @@ python predict.py \
 ## Reference
 If you find the code useful, pleace cite: 
 ```
-@article{bintsi2025fully,
+@inproceedings{bintsi2025fully,
   title={Fully Automated Segmentation of Fiber Bundles in Anatomic Tracing Data},
   author={Bintsi, Kyriaki-Margarita and Balbastre, Ya{\"e}l and Wu, Jingjing and Lehman, Julia F and Haber, Suzanne N and Yendiki, Anastasia},
-  journal={arXiv preprint arXiv:2508.12942},
-  year={2025}
+  booktitle={International Workshop on Computational Diffusion MRI},
+  pages={81--92},
+  year={2025},
+  organization={Springer}
 }
 ```
